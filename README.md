@@ -1,5 +1,5 @@
 - 👋  &nbsp; Hi, I’m Aura. I love analyzing big data from patients to find new therapeutic/diagnostic insights!
-- 🤓  &nbsp; I am a Research Scientist at Owkin working on projects applying bioinformatics and datascience in the field of oncology healthcare . 
+- 🤓  &nbsp; I am a Research Scientist at Owkin working on projects applying bioinformatics and datascience in the field of oncology healthcare 
 - 💊 📊  &nbsp; I’m interested in the use of Data Science for Drug Discovery // AI and healthcare 
 - 💻   &nbsp; I’m continously improving my skills on Python and ML/ Deep Learning  after having worked with R for +4 years in bioinformatic projects centered on finding therapies in bladder and pancreatic cancer.
 - 💞️  &nbsp; I’m looking to collaborate on Data Science projects focused on healthcare.
